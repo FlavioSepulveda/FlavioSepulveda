@@ -11,7 +11,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icons8.com/icon/hZvpN3zV45Yf/python">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icons8.com/icon/69446/game-maker">
 </div>
   
   ##
@@ -23,4 +24,3 @@
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-fl%C3%A1vio-sep%C3%BAlveda-abreu-ab22541a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
