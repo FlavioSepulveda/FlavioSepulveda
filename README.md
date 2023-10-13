@@ -1,4 +1,4 @@
-## Hello Hello, my name is Flavio Sepulveda and I'm trying to turn the world upside down over a piece of cake and a tight hug! 
+## Hello Hello.
 <div align="center">
   <a href="https://github.com/FlavioSepulveda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviosepulveda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
